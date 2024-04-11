@@ -1,0 +1,7 @@
+*.asv
+*.gif
+*$*
+
+#Exclude all in here
+#data/*.mat
+
